@@ -82,7 +82,7 @@ public class BatchCardGenerator {
         BufferedReader reader = null;
         
         try {
-            reader = new BufferedReader(new FileReader("D:\\Tabletop Models\\2D stuff\\Cards\\tanks.json"));
+            reader = new BufferedReader(new FileReader("C:\\Users\\Aaron\\Documents\\NetBeansProjects\\batch-card-generator\\cards.json"));
         } catch (FileNotFoundException ex) {
             Logger.getLogger(BatchCardGenerator.class.getName()).log(Level.SEVERE, null, ex);
         }
