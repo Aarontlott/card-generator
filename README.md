@@ -8,7 +8,7 @@ This is a Java program that programmatically generates playing cards for use in 
 
 It goes out to the folder I specify and reads all the files within, which are little tank/airplane/boat images like the 'tank.png' here. 
 
-It will combine that with the 'blank_template-400x563.png' and apply some text that it gets from the 'cards.json' IF that tank image has a corresponding json entry. 
+It will combine that with the `blank_template-400x563.png` and apply some text that it gets from the `cards.json` IF that tank image has a corresponding json entry. 
 
 I got the tank images from several different mod packs for World of Tanks, ones that alter the garage images of the tanks. I've also grabbed some from World of Warplanes/Warships, which the cards will look essentially the same. I've also done a few renders in Blender of various free models I've found online to fill the non-WW2 gaps that I have, and I've been using Gimp to photoshop a few other cards from suitable pictures I find in various places.
 
@@ -20,7 +20,7 @@ At some point I'll add in the background I have as to who these new race are, bu
 
 ## The final product
 
-Take a look at the oddly names '01x china-Ch01_Type59.png' to see what it's currently outputting. The '01x' is part of the TTS deck builder, telling the program how many of each card to add to the deck. 
+Take a look at the oddly names `01x china-Ch01_Type59.png` to see what it's currently outputting. The `01x` is part of the TTS deck builder, telling the program how many of each card to add to the deck. 
 
 ## Disclaimer
 
