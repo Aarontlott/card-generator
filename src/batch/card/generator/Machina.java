@@ -51,31 +51,3 @@ public class Machina {
     } 
 
 }
-
-class Arma {
-    public String name;
-    public String type;
-    public String armor_class;
-    public String hit_points;
-    public String speed;
-    public String power_weight;
-    public String strength;
-    public String dexterity;
-    public String constitution;
-    public String intelligence;
-    public String wisdom;
-    public String charisma;
-    public String dmg_resist;
-    public String dmg_immune;
-    public String condition_immune;
-    public String senses;
-    public String languages;
-    public String challenge;
-    public String ranged;
-    public String ranged_desc;
-    public String ranged_hit;
-    public String melee;
-    public String melee_desc;
-    public String melee_hit;
-    public String bio;
-}
