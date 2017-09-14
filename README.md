@@ -14,7 +14,7 @@ I got the tank images from several different mod packs for World of Tanks, ones 
 
 ## What the heck is this for?
 
-I'm essentially making a bit of an alternate DnD race, set in a sci-fi setting. Sorta. It's still evolving but that's a good an explinating as I can muster up at this point. I'll be using the standard DnD rules (v5?) and cards as representation of enemies, as well as players (although that is still to be done). We'll see how well that goes for us...
+I'm essentially making a bit of an alternate DnD race, set in a sci-fi setting. Sorta. It's still evolving but that's a good an explinating as I can muster up at this point. I'll be using the standard DnD rules (v5?) and cards as representation of enemies, as well as players (although that is still to be done). Maybe for Starfinder?
 
 At some point I'll add in the background I have as to who these new race are, but suffice to say they are human sized sentient machines, whom have a walking (human) form and a travel (vehicle) form. They are known as the Machina.
 
